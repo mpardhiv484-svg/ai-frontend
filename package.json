@@ -1,0 +1,14 @@
+{
+  "name": "veritas-ai-detector",
+  "version": "1.0.0",
+  "description": "Modern frontend web application for AI-generated content detection",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ai-detector", "deepfake", "frontend", "cybersecurity"],
+  "author": "",
+  "license": "MIT"
+}
